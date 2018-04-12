@@ -1,0 +1,5 @@
+hello,privet
+hello,privet
+hello,privet
+world,mir
+world,mir
